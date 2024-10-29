@@ -1,0 +1,8 @@
+ApiVersion: 0.0.1
+frate:
+  IncludeDir: Include
+  SourceFiles:
+    - src/main.cpp.gotmpl
+project:
+  special: values
+
