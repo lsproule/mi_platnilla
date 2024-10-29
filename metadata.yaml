@@ -2,5 +2,5 @@ name: my_executable
 version: 0.0.2
 description: This is a basic cmake executable 
 dependencies: []
-git_url: github.com/lsproule/mi_plantilla
+git_url: https://github.com/lsproule/mi_plantilla
 
